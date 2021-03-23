@@ -1,0 +1,12 @@
+{
+    "name": "swiipe/checkout",
+    "description": "Dummy module to reserve the vendor name",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ivan Napolskykh",
+            "email": "ina@swiipe.com"
+        }
+    ],
+    "require": {}
+}
